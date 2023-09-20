@@ -1,0 +1,1 @@
+kubectl create secret tls opa-server --cert=server.crt --key=server.key --namespace opa
