@@ -4,7 +4,7 @@
             {
                 "id": 1,
                 "name": "John Doe",
-                "role": "user"
+                "role": "admin"
             },
             {
                 "id": 2,

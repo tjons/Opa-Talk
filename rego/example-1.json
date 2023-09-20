@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "John Doe",
-            "role": "admin"
+            "role": "user"
         },
         {
             "id": 2,
