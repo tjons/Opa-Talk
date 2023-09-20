@@ -1,0 +1,3 @@
+{
+    "roots": ["kubernetes/admission", "system"]
+}

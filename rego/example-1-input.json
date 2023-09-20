@@ -1,0 +1,21 @@
+{
+    "input" :{
+        "users": [
+            {
+                "id": 1,
+                "name": "John Doe",
+                "role": "user"
+            },
+            {
+                "id": 2,
+                "name": "Jane Doe",
+                "role": "user"
+            },
+            {
+                "id": 3,
+                "name": "Jim Doe",
+                "role": "user"
+            }
+        ]
+    }
+}
